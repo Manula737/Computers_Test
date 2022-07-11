@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://computer-database.herokuapp.com",
+  
+    "testFiles": "**/*.feature",
+    "pageLoadTimeout": 30000,
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false
+}
